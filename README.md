@@ -40,3 +40,4 @@ The process can be broken down into three steps, each presented as a separate sc
 
 # Reference
 https://github.com/JosiahParry/deploying-r-models
+https://www.youtube.com/watch?v=w4yHEQWct20&t=2s&ab_channel=JosiahParry
