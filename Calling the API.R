@@ -11,7 +11,7 @@ get_prices_preds <- function(Mileage,EngineV, Year ){
   ####### Creating URL  ########
   
   # Specifying the base url
-  b_url <- "http://127.0.0.1:5022//car_price"  ## Combination of where it is hosted and endpoing which you sepcified in the @get in plumber script
+  b_url <- "http://127.0.0.1:5022//car_price"  ## Combination of where it is hosted and endpoint which you sepcified in the @get in plumber script
   
   ## Creating Named list with parameters and values
   params <- list(Mileage = Mileage, EngineV = EngineV, Year = Year)
