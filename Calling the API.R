@@ -2,6 +2,9 @@ library(httr)
 library(jsonlite)
 
 
+##### Run "run_plumber" as a separate job before running this script #######
+
+
 get_prices_preds <- function(Mileage,EngineV, Year ){
   
   
