@@ -20,8 +20,8 @@ The process can be broken down into three steps, each presented as a separate sc
   * Determines what will happen
 
 * Parameters (optional) e.g. *https[]()://api.hostname.com/endpoint/?param=value*
- * Think of these like function arguments
- * Addresses varying parts of a request
+  * Think of these like function arguments
+  * Addresses varying parts of a request
 
 
 # Anatomy of a Plumner API
