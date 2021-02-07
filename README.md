@@ -24,7 +24,7 @@ The process can be broken down into three steps, each presented as a separate sc
   * Addresses varying parts of a request
 
 
-# Anatomy of a Plumner API
+# Anatomy of a Plumber API
 
 * Uses roxygen-like commenting #* to document
 
