@@ -6,7 +6,7 @@ This is a very simple REST API created using plumber package in R, that serves p
 
 The process can be broken down into three steps, each presented as a separate script:
 
-1. Building the model and saving it a an rds file- The model used is a multiple linear regression
+1. Building a multiple linear regression model and saving it as an rds file
 2. Turning the R model into a RESTFUL API, using the plumber package
 3. Calling the API 
 
